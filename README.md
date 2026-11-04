@@ -1,16 +1,44 @@
-## Hi there 👋
 
-<!--
-**kurxgane/kurxgane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá! Eu sou Gustavo 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Estudante de Big Data no Agronegócio na Fatec Bebedouro.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Tenho interesse em tecnologia, análise de dados e desenvolvimento de soluções que conectam inovação e agronegócio.
+</p>
+
+---
+
+### 🎓 Sobre mim
+
+- 📚 Estudante de Big Data no Agronegócio — Fatec Bebedouro.
+- 💻 Explorando desenvolvimento web e ferramentas de análise de dados.
+- 🌱 Interessado em tecnologia aplicada ao agronegócio.
+- 🚀 Sempre buscando aprender e desenvolver novos projetos.
+
+### 🛠️ Tecnologias e ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-F5788D?style=flat&logo=chartdotjs&logoColor=white" />
+</p>
+
+### 🚀 Projeto em destaque
+
+**[Mapa de Aptidão Agrícola](https://github.com/kurxgane/mapadeaptidao)**
+
+Ferramenta web de análise indicativa da aptidão climática de culturas agrícolas no estado de São Paulo, utilizando dados da NASA POWER.
+
+🔗 [Acessar aplicação](https://mapadeaptidao.netlify.app)
+
+---
+
+<p align="center">
+  <i>Aprendendo, desenvolvendo e evoluindo um projeto de cada vez.</i>
+</p>
