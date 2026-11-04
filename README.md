@@ -1,24 +1,23 @@
 
-<h1 align="center">Olá! Eu sou Gustavo 👋</h1>
+<h1 align="center">Gustavo 👋</h1>
 
 <p align="center">
-  Estudante de Big Data no Agronegócio na Fatec Bebedouro.
+  <strong>Estudante de Big Data no Agronegócio</strong>
 </p>
 
 <p align="center">
-  Tenho interesse em tecnologia, análise de dados e desenvolvimento de soluções que conectam inovação e agronegócio.
+  Tecnologia, dados e desenvolvimento de soluções.
 </p>
 
 ---
 
-### 🎓 Sobre mim
+### Sobre mim
 
-- 📚 Estudante de Big Data no Agronegócio — Fatec Bebedouro.
-- 💻 Explorando desenvolvimento web e ferramentas de análise de dados.
-- 🌱 Interessado em tecnologia aplicada ao agronegócio.
-- 🚀 Sempre buscando aprender e desenvolver novos projetos.
+Estudante de Big Data no Agronegócio na Fatec Bebedouro.
 
-### 🛠️ Tecnologias e ferramentas
+Tenho interesse em tecnologia, desenvolvimento e análise de dados, especialmente em soluções que conectam inovação e problemas do mundo real.
+
+### Tecnologias
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
@@ -29,16 +28,16 @@
   <img src="https://img.shields.io/badge/Chart.js-F5788D?style=flat&logo=chartdotjs&logoColor=white" />
 </p>
 
-### 🚀 Projeto em destaque
+### Projetos em destaque
 
-**[Mapa de Aptidão Agrícola](https://github.com/kurxgane/mapadeaptidao)**
+**[Mapa de Aptidão Agrícola](https://mapadeaptidao.netlify.app)**
 
-Ferramenta web de análise indicativa da aptidão climática de culturas agrícolas no estado de São Paulo, utilizando dados da NASA POWER.
+Ferramenta web de análise indicativa da aptidão climática de culturas agrícolas no estado de São Paulo.
 
-🔗 [Acessar aplicação](https://mapadeaptidao.netlify.app)
+**Tecnologias:** JavaScript, Leaflet, Chart.js e NASA POWER.
 
 ---
 
 <p align="center">
-  <i>Aprendendo, desenvolvendo e evoluindo um projeto de cada vez.</i>
+  <i>Construindo, aprendendo e evoluindo.</i>
 </p>
