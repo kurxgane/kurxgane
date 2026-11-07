@@ -1,43 +1,37 @@
-
-<h1 align="center">Gustavo 👋</h1>
-
-<p align="center">
-  <strong>Estudante de Big Data no Agronegócio</strong>
-</p>
+Olá, eu sou o Gustavo! 👋
 
 <p align="center">
-  Tecnologia, dados e desenvolvimento de soluções.
-</p>
+  <strong>Estudante de Big Data no Agronegócio</strong><br>
+  Fatec Bebedouro
+</p><p align="center">
+  Tecnologia, dados e desenvolvimento de soluções para problemas reais.
+</p>---
 
----
+Sobre mim
 
-### Sobre mim
+Sou estudante de Big Data no Agronegócio na Fatec Bebedouro.
 
-Estudante de Big Data no Agronegócio na Fatec Bebedouro.
+Tenho interesse em desenvolvimento de software, análise de dados e tecnologia, especialmente na criação de soluções que conectam inovação e necessidades do mundo real.
 
-Tenho interesse em tecnologia, desenvolvimento e análise de dados, especialmente em soluções que conectam inovação e problemas do mundo real.
-
-### Tecnologias
+Tecnologias
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
-</p>
+</p>Projeto em destaque
 
-<p>
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chart.js-F5788D?style=flat&logo=chartdotjs&logoColor=white" />
-</p>
+🌱 Mapa de Aptidão Agrícola
 
-### Projetos em destaque
+Aplicação web que permite analisar a aptidão climática de diferentes culturas agrícolas em pontos do estado de São Paulo.
 
-**[Mapa de Aptidão Agrícola](https://mapadeaptidao.netlify.app)**
+A ferramenta utiliza dados climáticos da NASA POWER para classificar a aptidão como Apta, Moderada ou Inapta, apresentando fatores limitantes e informações visuais para auxiliar na análise.
 
-Ferramenta web de análise indicativa da aptidão climática de culturas agrícolas no estado de São Paulo.
+Tecnologias: JavaScript, Leaflet, Chart.js e NASA POWER.
 
-**Tecnologias:** JavaScript, Leaflet, Chart.js e NASA POWER.
+- 🌐 "Acessar aplicação" (https://mapadeaptidao.netlify.app)
+- 💻 "Ver repositório no GitHub" (https://github.com/kurxgane/mapadeaptidao)
 
 ---
 
 <p align="center">
-  <i>Construindo, aprendendo e evoluindo.</i>
+  Construindo, aprendendo e evoluindo. 🚀
 </p>
