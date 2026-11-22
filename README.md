@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Tecnologia, dados e desenvolvimento de soluções para problemas reais.
+  Tecnologia, dados e desenvolvimento.
 </p>
 
 ---
